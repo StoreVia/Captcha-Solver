@@ -4,12 +4,12 @@ An Machine Learning Model Trained Over 1300 Captchas In Srmap Student Portal To 
 
 ---
 
-## 📌 Features From Main.py
+## 📌 Features
 
-- 🔍 Automatically fetches and solves a live CAPTCHA from the SRMAP student portal
-- 🧠 Uses a trained deep learning model (CNN) to predict text
-- ⚡ Solves in under a second on average
-- 🎯 Preprocessing pipeline for consistent and clean predictions
+- 🔍 Automatically fetches and solves a live CAPTCHA from the SRMAP student portal (Main.py Only).
+- 🧠 Uses a trained deep learning model (CNN) to predict text.
+- ⚡ Solves in under a second on average.
+- 🎯 Preprocessing pipeline for consistent and clean predictions.
 
 ## 🔧 Requirements
 
